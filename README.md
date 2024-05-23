@@ -1,6 +1,6 @@
 # Restaurant-Management-System
 
-The Restaurant Management System is an adaptive Python script with multiple functionalities to regulate several processes of a restaurant’s activity with friendly interfaces for customers and employees. Its essence lies in the technology of a menu that is a JSON structure, which allows for simple menu management and manipulation.
+This Restaurant Management System is an adaptive Python script with multiple functionalities to regulate several processes of a restaurant’s activity with friendly interfaces for customers and employees. Its essence lies in the technology of a menu that is a JSON structure, which allows for simple menu management and manipulation.
 
 Display and Ordering: Upon executing the program, the program opens and shows a user-friendly welcome message after which a list of items with the price and rating of each item is displayed. Customers can conveniently scan through a list of products that is displayed in front of them and identify those products that appeal to them at that particular time and in the desired measures to make orders. The digital plan of the system enables computation of the total bill depending on the individual items and quantities ordered, making the buying process a delightful and uneventful experience.
 
