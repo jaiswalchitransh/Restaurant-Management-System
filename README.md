@@ -11,11 +11,10 @@
 This Restaurant Management System is a Python script designed to manage various aspects of a restaurant's operations, enhancing both customer and staff experiences. It utilizes a JSON-based menu structure for easy management and manipulation.
 
 ## Installation
+- Ensure you have Python 3.12.1 installed. You can download it from [Python's official website](https://www.python.org/downloads/release/python-3121/).
 - Clone the repository:
-1. Clone the repository.
-2. Open the solution file in Visual Studio 2022.
-3. Restore any NuGet packages if prompted.
-4. Build and run the application.
+- git clone <https://github.com/jaiswalchitransh/Restaurant-Management-System>
+- Navigate to the project directory.
 
 ## Usage
 Upon running the script, users are greeted with a welcoming interface providing options for menu display, item ordering, addition of new items, rating of items, and exiting the program. Detailed functionalities include:
