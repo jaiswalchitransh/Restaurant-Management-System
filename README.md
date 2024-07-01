@@ -9,10 +9,12 @@
 
 ---
 
+
 ## Project Overview
 This Restaurant Management System is a Python script designed to manage various aspects of a restaurant's operations, enhancing both customer and staff experiences. It utilizes a JSON-based menu structure for easy management and manipulation.
 
 ---
+
 
 ## Installation
 - Ensure you have Python 3.12.1 installed. You can download it from [Python's official website](https://www.python.org/downloads/release/python-3121/).
@@ -21,6 +23,7 @@ This Restaurant Management System is a Python script designed to manage various 
 - Navigate to the project directory.
 
 ---
+
 
 ## Usage
 Upon running the script, users are greeted with a welcoming interface providing options for menu display, item ordering, addition of new items, rating of items, and exiting the program. Detailed functionalities include:
@@ -32,6 +35,7 @@ Upon running the script, users are greeted with a welcoming interface providing 
 
 ---
 
+
 ## Features
 - **Menu Management**: Utilizes JSON for efficient storage and management of menu items, including name, price, and type.
 - **Dynamic Interface**: Provides a user-friendly interface for seamless interaction with menu items, ordering, and rating.
@@ -39,6 +43,7 @@ Upon running the script, users are greeted with a welcoming interface providing 
 - **Data Persistence**: Updates and saves changes to the menu in a JSON file (`menu.json`) for persistent storage.
 
 ---
+
 
 ## Contribution
 I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
