@@ -7,13 +7,9 @@
 - [Features](#features)
 - [Contribution](#contribution)
 
----
-
 
 ## Project Overview
 This Restaurant Management System is a Python script designed to manage various aspects of a restaurant's operations, enhancing both customer and staff experiences. It utilizes a JSON-based menu structure for easy management and manipulation.
-
----
 
 
 ## Installation
@@ -21,8 +17,6 @@ This Restaurant Management System is a Python script designed to manage various 
 - Clone the repository:
 - git clone <https://github.com/jaiswalchitransh/Restaurant-Management-System>
 - Navigate to the project directory.
-
----
 
 
 ## Usage
@@ -33,16 +27,12 @@ Upon running the script, users are greeted with a welcoming interface providing 
 - **Add Ratings**: Allows customers to provide ratings (1-5 stars) for menu items, which are stored and used for item popularity and quality assessment.
 - **Exit**: Saves any changes made to the menu and exits the program.
 
----
-
 
 ## Features
 - **Menu Management**: Utilizes JSON for efficient storage and management of menu items, including name, price, and type.
 - **Dynamic Interface**: Provides a user-friendly interface for seamless interaction with menu items, ordering, and rating.
 - **Rating System**: Incorporates a feedback mechanism where customers can rate menu items, helping in understanding customer preferences and improving dish popularity.
 - **Data Persistence**: Updates and saves changes to the menu in a JSON file (`menu.json`) for persistent storage.
-
----
 
 
 ## Contribution
