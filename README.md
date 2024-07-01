@@ -33,7 +33,7 @@ Upon running the script, users are greeted with a welcoming interface providing 
 - **Data Persistence**: Updates and saves changes to the menu in a JSON file (`menu.json`) for persistent storage.
 
 ## Contribution
-This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
+I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
 - Fork the repository
 - Make your changes
