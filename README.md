@@ -1,9 +1,40 @@
 # Restaurant-Management-System
 
-This Restaurant Management System is an adaptive Python script with multiple functionalities to regulate several processes of a restaurant’s activity with friendly interfaces for customers and employees. Its essence lies in the technology of a menu that is a JSON structure, which allows for simple menu management and manipulation.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contribution](#contribution)
 
-Display and Ordering : Upon executing the program, the program opens and shows a user-friendly welcome message after which a list of items with the price and rating of each item is displayed. Customers can conveniently scan through a list of products that is displayed in front of them and identify those products that appeal to them at that particular time and in the desired measures to make orders. The digital plan of the system enables computation of the total bill depending on the individual items and quantities ordered, making the buying process a delightful and uneventful experience.
+## Project Overview
+This Restaurant Management System is a Python script designed to manage various aspects of a restaurant's operations, enhancing both customer and staff experiences. It utilizes a JSON-based menu structure for easy management and manipulation.
 
-Menu Management : The management in the restaurant enables the staff to have the capacity to manage the menu easily via the system. They include features of an item such as an item name, price, and whether it is vegetarian or non-vegetarian an item on the menu. This functionality helps to maintain relevancy of the menu and changes and additions to the menu following the customers’ preferences and tendencies in the restaurant business.
+## Installation
+- Clone the repository:
+1. Clone the repository.
+2. Open the solution file in Visual Studio 2022.
+3. Restore any NuGet packages if prompted.
+4. Build and run the application.
 
-Rating System : Alongside ordering food products, customers also have an opportunity to influence the choice of dishes; that is by rating menu products. The primary purpose of this feedback mechanism is to know patrons’ satisfaction levels and their preferred restaurant dishes so as to satisfy the needs of patrons and at the same time for the restaurant management to determine the popularity and quality of the dishes offered to patrons. Expert opinions provide feedback for the constant improvement of the menu and the identification of factors that influence customers’ choices and loyalty.
+## Usage
+Upon running the script, users are greeted with a welcoming interface providing options for menu display, item ordering, addition of new items, rating of items, and exiting the program. Detailed functionalities include:
+
+- **Show Menu**: Displays a list of items with their respective prices and average ratings.
+- **Order Items**: Allows users to select items by their IDs and quantity, calculates the total bill, and displays a summary of the order.
+- **Add Item**: Enables restaurant staff to add new menu items, specifying name, price, and type (vegetarian or non-vegetarian).
+- **Add Ratings**: Allows customers to provide ratings (1-5 stars) for menu items, which are stored and used for item popularity and quality assessment.
+- **Exit**: Saves any changes made to the menu and exits the program.
+
+## Features
+- **Menu Management**: Utilizes JSON for efficient storage and management of menu items, including name, price, and type.
+- **Dynamic Interface**: Provides a user-friendly interface for seamless interaction with menu items, ordering, and rating.
+- **Rating System**: Incorporates a feedback mechanism where customers can rate menu items, helping in understanding customer preferences and improving dish popularity.
+- **Data Persistence**: Updates and saves changes to the menu in a JSON file (`menu.json`) for persistent storage.
+
+## Contribution
+This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
+Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
+- Fork the repository
+- Make your changes
+- Submit a pull request
