@@ -7,6 +7,8 @@
 - [Features](#features)
 - [Contribution](#contribution)
 
+---
+
 ## Project Overview
 This Restaurant Management System is a Python script designed to manage various aspects of a restaurant's operations, enhancing both customer and staff experiences. It utilizes a JSON-based menu structure for easy management and manipulation.
 
