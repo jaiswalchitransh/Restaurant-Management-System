@@ -23,6 +23,10 @@ To set up the project:
 
 
 ## Usage
+Ensure Python 3.x is installed. Run the script:
+
+- python restaurant.py
+  
 Upon running the script, users are greeted with a welcoming interface providing options for menu display, item ordering, addition of new items, rating of items, and exiting the program. Detailed functionalities include:
 - **Show Menu**: Displays a list of items with their respective prices and average ratings.
 - **Order Items**: Allows users to select items by their IDs and quantity, calculates the total bill, and displays a summary of the order.
