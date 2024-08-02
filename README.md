@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# Restaurant Management System
 
 ## Table of Contents
 - [Project Overview](#project-overview)
